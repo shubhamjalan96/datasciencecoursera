@@ -1,2 +1,2 @@
 # datasciencecoursera
-pROJECT1
+Project1
